@@ -1,0 +1,11 @@
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.AssemblyReference.cache
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.SuggestedBindingRedirects.cache
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.NoteTaker.resources
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.Properties.Resources.resources
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.GenerateResource.cache
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.CoreCompileInputs.cache
+D:\NoteTakingapp\NoteTakingapp\bin\Debug\NoteTakingapp.exe.config
+D:\NoteTakingapp\NoteTakingapp\bin\Debug\NoteTakingapp.exe
+D:\NoteTakingapp\NoteTakingapp\bin\Debug\NoteTakingapp.pdb
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.exe
+D:\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.pdb
